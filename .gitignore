@@ -1,0 +1,19 @@
+# Don't track the following files:
+bookmark_app.py
+bookmark_app2.py
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+
+
